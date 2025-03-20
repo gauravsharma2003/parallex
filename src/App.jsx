@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import './App.css' // We'll create this file next
-import scam1 from "./assets/Scame/1.png "
+import './App.css' 
+import scam1 from "./assets/Scame/1.png"
 import scam2 from "./assets/Scame/2.png"
 import scam3 from "./assets/Scame/3.png"
 import scam4 from "./assets/Scame/4.png"
